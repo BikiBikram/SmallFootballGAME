@@ -1,0 +1,33 @@
+.box1 {
+  display: block;
+       
+}
+.box{
+width: 830px;
+   background-color: blueviolet;
+     height: 300px;
+    border:  2px solid red;
+}
+.boxx{
+    border: 2px solid black;
+    height: 100px;
+}
+.ball{ 
+    
+    
+    height: 60px;
+    width: 60px;
+    background-color: aqua; 
+    position: absolute;
+    margin-top :100px;
+    margin-left: 100px;
+    
+
+}
+.append{
+    height: 50px;
+    width: 150px;
+    background-color: red;
+    margin-left: 350px;
+
+}
